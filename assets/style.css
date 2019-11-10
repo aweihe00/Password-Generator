@@ -1,0 +1,28 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+h2 {
+    background-color: lightgray;
+}
+
+textarea {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 0.2rem; 
+    word-spacing: 0.2rem; 
+}
+
+#generate {
+    border-radius: 2.3rem;
+    border-style: groove;
+}
+
+#copy {
+    border-radius: 2.3rem;
+    border-style: groove;
+}
+
+#clear {
+    border-radius: 2.3rem; 
+}
+
