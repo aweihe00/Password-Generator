@@ -4,6 +4,8 @@ var lCase = ["abcdefghijklmnopqrstuvwxyz"];
 var sChar = ["!#$%&'()*+,-./:;<=>?@[]^_`{|}~"];
 var userPwdOptions = [""];
 
+alert("Welcome to the Password Generator!")
+
 function getUserPwdOptions(){
     var userPwd = [""];
     var pLengthPrompt = prompt("How long would you like your password to be?");
