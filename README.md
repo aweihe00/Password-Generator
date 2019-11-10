@@ -5,11 +5,6 @@ This application's purpose is to generate a secure and random password using spe
 
 JavaScriptLogic: DECLARE characters array (charArray) variable and set them equal to to lower case & uppercase alphabet, special characters and numbers 0 - 9;
 
-var charArray = var number = ["0123456789"];
-var uCase = ["ABCDEFGHIJKLMNOPQRSTUVWXYZ"]; 
-var lCase = ["abcdefghijklmnopqrstuvwxyz"];
-var sChar = ["!#$%&'()*+,-./:;<=>?@[]^_`{|}~"];
-
 PROMPT user to generate a password
 PROMPT user to select password length between 8 - 128
 PROMPT user to select Character Type (i.e. - Special, Numeric, Lowercase, Uppercase)
