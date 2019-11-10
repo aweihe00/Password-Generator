@@ -4,7 +4,7 @@ var lCase = ["abcdefghijklmnopqrstuvwxyz"];
 var sChar = ["!#$%&'()*+,-./:;<=>?@[]^_`{|}~"];
 var userPwdOptions = [""];
 
-alert("Welcome to the Password Generator!")
+alert("Welcome to a Secure Password Generator Site!")
 
 function getUserPwdOptions(){
     var userPwd = [""];
