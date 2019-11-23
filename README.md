@@ -7,13 +7,13 @@ JavaScriptLogic: DECLARE characters array (charArray) variable and set them equa
 
 PROMPT user to generate a password
 PROMPT user to select password length between 8 - 128
-PROMPT user to select Character Type (i.e. - Special, Numeric, Lowercase, Uppercase)
+PROMPT user to select Character Type (i.e. - Special, #'s , Lowercase, & Uppercase)
 
 VALIDATE user input after each prompt
 
-GENERATES a new completely random password
+GENERATES a completely random password
 
-THEN gives user option to copy it to their clipboard
+THEN gives user option to copy to clipboard
 
 
 ![Capture](https://user-images.githubusercontent.com/56567819/68538452-4e029500-033a-11ea-803e-4c49f41eb352.PNG)
