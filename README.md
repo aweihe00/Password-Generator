@@ -25,6 +25,21 @@ Your application should have a clean and polished user interface and be responsi
 Your application should be deployed to GitHub Pages.
 Your application's GitHub repository should contain a README.md file explaining the purpose and functionality of the application. The README.md file should include a screenshot of the completed application as well as a link to the deployed GitHub Pages URL.
 
+User Story
+AS AN employee with access to sensitive data
+I WANT to randomly generate a password that meets certain criteria
+SO THAT I can create a strong password that provides greater security
+
+Business Context
+For companies that handle large amounts of sensitive data, weak passwords can pose a real security threat. An application that can generate strong passwords quickly and effortlessly saves employees time and ensures secure access to data.
+
+Acceptance Criteria
+GIVEN that a user needs a new, secure password
+WHEN prompted for password criteria
+THEN a password is generated
+
+![Capture](https://user-images.githubusercontent.com/56567819/68538452-4e029500-033a-11ea-803e-4c49f41eb352.PNG)
+
 This application's purpose is to generate a secure and random password using special characters, numeric characters, uppercase and/or lowercase letters, depending on the user-selected criteria. The user can then choose to generate another password, or copy their new password to the clipboard.
 
 JavaScriptLogic: DECLARE characters array (charArray) variable and set them equal to to lower case & uppercase alphabet, special characters and numbers 0 - 9;
@@ -38,6 +53,3 @@ VALIDATE user input after each prompt
 GENERATES a completely random password
 
 THEN gives user option to copy to clipboard
-
-
-![Capture](https://user-images.githubusercontent.com/56567819/68538452-4e029500-033a-11ea-803e-4c49f41eb352.PNG)
