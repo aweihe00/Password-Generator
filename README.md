@@ -38,7 +38,8 @@ GIVEN that a user needs a new, secure password
 WHEN prompted for password criteria
 THEN a password is generated
 
-![Capture](https://user-images.githubusercontent.com/56567819/68538452-4e029500-033a-11ea-803e-4c49f41eb352.PNG)
+![capture](https://user-images.githubusercontent.com/56567819/69487769-2c6ad880-0e25-11ea-8092-267396a64836.png)
+
 
 This application's purpose is to generate a secure and random password using special characters, numeric characters, uppercase and/or lowercase letters, depending on the user-selected criteria. The user can then choose to generate another password, or copy their new password to the clipboard.
 
