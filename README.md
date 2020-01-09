@@ -2,7 +2,7 @@
 
 Unit 03 JavaScript Homework: Password Generator
 
-Description:
+## Description:
 
 Create an application that generates a random password based on user-selected criteria. This app will run in the browser and feature dynamically updated HTML and CSS powered by your JavaScript code.
 The user will be prompted to choose from the following password criteria:
@@ -13,13 +13,15 @@ The user will be prompted to choose from the following password criteria:
 5. Lowercase characters
 6. Uppercase characters
 
-Business Context:
+## Business Context:
 
 For companies that handle large amounts of sensitive data, weak passwords can pose a real security threat. An application that can generate strong passwords quickly and effortlessly saves employees time and ensures secure access to data.
 
 ![capture](https://user-images.githubusercontent.com/56567819/69487769-2c6ad880-0e25-11ea-8092-267396a64836.png)
 
 Link to site deployed https://aweihe00.github.io/Password-Generator/
+
+## Functionality
 
 This application's purpose is to generate a secure and random password using special characters, numeric characters, uppercase and/or lowercase letters, depending on the user-selected criteria. The user can then choose to generate another password, or copy their new password to the clipboard.
 
